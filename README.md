@@ -11,12 +11,12 @@ Made by **Seb & Claude** (Anthropic): ideas, design and testing by Seb, code and
 <p>
   <img src="docs/images/phosphor.png" width="200" alt="Phosphor">
   <img src="docs/images/phosphor-light.png" width="200" alt="Phosphor light">
-  <img src="docs/images/clear.png" width="200" alt="Clear">
-  <img src="docs/images/clear-dark.png" width="200" alt="Clear dark">
+  <img src="docs/images/clear-waiting.png" width="200" alt="Clear">
+  <img src="docs/images/clear-dark-waiting.png" width="200" alt="Clear dark">
 </p>
 
 *Phosphor with weather and a parking note · Phosphor light on the coast, with tides in the footer · Clear and
-Clear dark with seconds running after a flick of the wrist.*
+Clear dark waiting for the first weather update, with seconds running after a flick of the wrist.*
 
 ## Features
 
@@ -37,11 +37,11 @@ Clear dark with seconds running after a flick of the wrist.*
 - **English** (default) or **German**
 
 <p>
-  <img src="docs/images/no-weather.png" width="200" alt="Before the first weather update">
+  <img src="docs/images/phosphor-waiting.png" width="200" alt="Waiting for weather">
   <img src="docs/images/german.png" width="200" alt="German">
 </p>
 
-*Before the first weather update · German: `DO`, `MESZ`, `ABN`.*
+*Waiting for the first weather update · German: `DO`, `MESZ`, `ABN`.*
 
 ## Install
 
