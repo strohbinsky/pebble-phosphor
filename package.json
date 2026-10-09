@@ -1,0 +1,34 @@
+{
+  "name": "phosphor",
+  "author": "Seb & Claude",
+  "version": "0.24.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Phosphor",
+    "uuid": "8085a6ef-3028-467a-90e9-914ed509446d",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": ["emery"],
+    "watchapp": { "watchface": true },
+    "messageKeys": [
+      "BEREIT",
+      "ANFRAGE",
+      "WETTER",
+      "TAG",
+      "STAND",
+      "SONNE[4]",
+      "IATA",
+      "BREITE",
+      "FEHLER",
+      "GEZEITEN",
+      "SKIN",
+      "PARK1",
+      "PARK2",
+      "SPRACHE"
+    ],
+    "resources": { "media": [] },
+    "capabilities": ["location", "health", "configurable"]
+  }
+}
